@@ -1,7 +1,7 @@
 Config = {}
 Config.DrawDistance = 100.0
 Config.MaxErrors = 5
-Config.SpeedMultiplier = 3.6 -- change this to 0 for MPH
+Config.SpeedMultiplier = 3.6 -- change this to 2.236936 for MPH
 Config.Price = 500
 
 Config.SpeedLimits = {
